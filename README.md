@@ -16,3 +16,6 @@ The original project instructions. Not required to have here, but nice to have.
 
 # "WebApplicationFinal.mkv"
 A video of me explaining the code, and showing the web app for this project.
+
+# "WebApplicationFinal.pptx"
+A short presentation on the interesting parts of this project, with room at the end for questions and me to show this running.
